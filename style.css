@@ -1,3 +1,10 @@
+main {
+    margin: 32px auto;
+    width: 100%;
+    max-width: 500px;
+    
+}
+
 body {
     background-color: #F6F2F0;
 }
