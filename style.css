@@ -1,24 +1,27 @@
 body {
-    background-color: rgb(197, 124, 35);
+    background-color: #F6F2F0;
+}
+.header a{
+    color: #937EB7;
 }
 .header {
-    color: blueviolet;
+    color: #B77EA2;
 }
 .aboutMe {
-    color: yellowgreen;
+    color: #585969;
 }
 .sectionOne {
-    color: green;
+    color: #8C8EA7;
 }
 .diry{
-    color: violet;
+    color: #BA8787;
 }
-.howToCreate {
-    color: blue;
+.sectionTwo , .howToCreate {
+    color: #8C8EA7;
 }
-.sectionTwo {
-    color: #2da8e0
+p {
+    color: #495559;
 }
-.itseasy {
-    color: darkred
+footer {
+    color: #B77EA2;
 }
