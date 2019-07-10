@@ -1,34 +1,38 @@
 main {
     margin: 32px auto;
     width: 100%;
-    max-width: 500px;
-    
+    max-width: 800px;
 }
-
 body {
     background-color: #F6F2F0;
 }
-.header a{
+.homepage__header a{
     color: #937EB7;
 }
-.header {
+.homepage__header {
     color: #B77EA2;
 }
-.aboutMe {
+.homepage__header-link{
+    text-decoration: none;
+}
+.homepage__about {
+    display: inline;
+}
+.homepage__about-title {
     color: #585969;
 }
-.sectionOne {
-    color: #8C8EA7;
+.homepage__diry-title {
+    color: rgba(226, 198, 121, 0.89);
 }
-.diry{
+.homepage__diry {
     color: #BA8787;
 }
-.sectionTwo , .howToCreate {
+.homepage__diry-content {
     color: #8C8EA7;
 }
 p {
     color: #495559;
 }
-footer {
+.homepage__footer {
     color: #B77EA2;
 }
