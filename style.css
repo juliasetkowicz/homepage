@@ -21,13 +21,13 @@ body {
 .homepage__about-title {
     color: #585969;
 }
-.homepage__diry-title {
+.homepage__diary-title {
     color: rgba(226, 198, 121, 0.89);
 }
-.homepage__diry {
+.homepage__diary {
     color: #BA8787;
 }
-.homepage__diry-content {
+.homepage__diary-content {
     color: #8C8EA7;
 }
 p {
